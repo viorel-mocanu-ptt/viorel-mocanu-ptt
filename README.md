@@ -1,5 +1,6 @@
 # Hi there! 👋
 
+- First of all, this is my `work` GitHub account. My personal one is here: https://github.com/ViorelMocanu
 - 🔭 I’m currently working on a few projects including [Pentest-Tools.com](https://pentest-tools.com/) and [my own YouTube channel](https://www.youtube.com/ViorelMocanu) (on my alternative GitHub account [ViorelMocanu](https://github.com/ViorelMocanu)).
 - 🌱 I’m currently learning [Svelte](https://github.com/sveltejs/svelte) and [Astro](https://github.com/withastro/astro).
 - 👯 I’m looking to collaborate on creating easy to use starter projects for people beginning their journey in IT, front end, back end, devops, etc.
