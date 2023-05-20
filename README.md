@@ -16,4 +16,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=viorel-mocanu-ptt&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=#0c2d6b)
 
 ## 🏆 Private GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=viorel-mocanu-ptt&theme=dark&no-bg=true&margin-w=15&margin-h=15&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=viorel-mocanu-ptt&theme=dark&margin-w=15&margin-h=15&no-frame=true)
