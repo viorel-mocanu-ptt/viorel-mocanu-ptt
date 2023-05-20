@@ -11,9 +11,9 @@
 - ⚡ Fun fact: I started out in Front End Development in the 1990's, when [Jeffrey Zeldman](https://www.zeldman.com/) (with [A List Apart](https://alistapart.com/)) and others were fighting to create and uphold Web Standards. We now live by them and it's a wonderful time to start working in the field, so I'm devoting part of my time to encourage you to do so.
 
 ## 📊 Private GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs?username=viorel-mocanu-ptt&theme=transparent&show_icons=true&hide_border=true&locale=en&include_all_commits=true&count_private=true&layout=compact&bg_color=#0c2d6b)<br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=viorel-mocanu-ptt&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=#0c2d6b)<br />
-![](https://github-readme-stats.vercel.app/api?username=viorel-mocanu-ptt&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=#0c2d6b)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=viorel-mocanu-ptt&theme=dark&show_icons=true&hide_border=true&locale=en&include_all_commits=true&count_private=true&layout=compact&bg_color=#0c2d6b)<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=viorel-mocanu-ptt&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=#0c2d6b)<br />
+![](https://github-readme-stats.vercel.app/api?username=viorel-mocanu-ptt&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=#0c2d6b)
 
 ## 🏆 Private GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=viorel-mocanu-ptt&theme=dark_dimmed&no-bg=true&margin-w=15&margin-h=15&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=viorel-mocanu-ptt&theme=dark&no-bg=true&margin-w=15&margin-h=15&no-frame=true)
